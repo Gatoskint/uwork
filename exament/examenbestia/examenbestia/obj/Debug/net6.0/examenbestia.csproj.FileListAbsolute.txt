@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\bin\Debug\net6.0\examenbestia.exe
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\bin\Debug\net6.0\examenbestia.deps.json
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\bin\Debug\net6.0\examenbestia.runtimeconfig.json
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\bin\Debug\net6.0\examenbestia.dll
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\bin\Debug\net6.0\examenbestia.pdb
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.dll
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\refint\examenbestia.dll
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.pdb
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\examenbestia.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\repo\uwork\exament\examenbestia\examenbestia\obj\Debug\net6.0\ref\examenbestia.dll
