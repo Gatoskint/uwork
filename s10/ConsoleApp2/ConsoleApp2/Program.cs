@@ -28,7 +28,7 @@ else
     {
         Console.WriteLine("Ingrese su nombre");
         string n = Console.ReadLine();
-        string pc = Strings.Right(n, 5);
+        string pc = Strings.Right(n, 4);
         Console.WriteLine("Las 5 letras de lado derecho son: " + pc);
     }
 }
