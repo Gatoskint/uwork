@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\bin\Debug\net6.0\misticnosabehacernada.exe
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\bin\Debug\net6.0\misticnosabehacernada.deps.json
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\bin\Debug\net6.0\misticnosabehacernada.runtimeconfig.json
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\bin\Debug\net6.0\misticnosabehacernada.dll
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\bin\Debug\net6.0\misticnosabehacernada.pdb
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.dll
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\refint\misticnosabehacernada.dll
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.pdb
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\misticnosabehacernada.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\repo\uwork\test\misticnosabehacernada\misticnosabehacernada\obj\Debug\net6.0\ref\misticnosabehacernada.dll
