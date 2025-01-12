@@ -1,3 +1,2 @@
-# uwork
-uhhhhhhhh tarea
-trabajo
+# Uwork
+Trabajos universitarios - proyectos pequeños de desarrollo
